@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ömer Ç.</h1>
 <h3 align="center">"An aspiring data scientist striving to make a meaningful impact on people's lives."</h3>
 
-- 🌱 I’m currently learning **QML**
+- 🎯 Aspiring data scientist  
+- 🌱 I’m currently learning Quantum Machine Learning **QML**
+- 🧠 Interested in AI, embedded systems, and mathematical modeling
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
